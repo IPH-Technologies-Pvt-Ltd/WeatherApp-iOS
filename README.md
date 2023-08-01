@@ -49,6 +49,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshot
 <img src= "simulator-screen-recording-iphone-14-pro-2023-07-24-at-104920_e8D1oC6g.gif"
-     width="400" 
-     height="750"/>
+     width="250" 
+     height="500"/>
 
