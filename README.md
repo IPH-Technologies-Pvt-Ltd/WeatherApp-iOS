@@ -1,9 +1,9 @@
 # WeatherApp-iOS
-- WeatherApp is a simple and user-friendly weather application that provides real-time weather updates and forecasts for locations around the world. With WeatherApp, you can stay informed about the current weather conditions, temperature, humidity, wind speed, and more, helping you plan your day accordingly.
+ WeatherApp is a simple and user-friendly weather application that provides real-time weather updates and forecasts for locations around the world. With WeatherApp, you can stay informed about the current weather conditions, temperature, humidity, wind speed, and more, helping you plan your day accordingly.
 
 ## Features
-- Real-time Weather Updates: Get the latest weather data for your current location or any specified location.
-- Interactive Map: Explore weather information on an interactive map with location-based weather details.
+ Real-time Weather Updates: Get the latest weather data for your current location or any specified location.
+ Interactive Map: Explore weather information on an interactive map with location-based weather details.
 
 ## Requirements
 - Xcode 12.0 or later
