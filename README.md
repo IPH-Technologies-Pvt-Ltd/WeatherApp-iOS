@@ -29,14 +29,14 @@
 
 
 ## Usage
-1.Upon opening the WeatherApp, the application will attempt to retrieve your current location and display the weather details for that location.
+1. Upon opening the WeatherApp, the application will attempt to retrieve your current location and display the weather details for that location.
 
-2.To search for weather information for a specific location, you can enter the name of the city in the search bar and click the "Search" button. The app will fetch and display the weather data 
+2. To search for weather information for a specific location, you can enter the name of the city in the search bar and click the "Search" button. The app will fetch and display the weather data 
 for the entered location.
 
-3.You can view detailed weather information, including temperature, humidity, wind speed, and more, for both current conditions and the forecast by selecting the appropriate tabs.
+3. You can view detailed weather information, including temperature, humidity, wind speed, and more, for both current conditions and the forecast by selecting the appropriate tabs.
 
-4.The main code files are located in the `WeatherApp` directory. Feel free to modify the existing code or add new files as needed.
+4. The main code files are located in the `WeatherApp` directory. Feel free to modify the existing code or add new files as needed.
 
 ## Contributing
 - Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please create a new pull request. Make sure to follow the existing coding style and include relevant tests if applicable.
