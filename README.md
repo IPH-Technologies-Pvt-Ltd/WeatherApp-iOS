@@ -1,4 +1,6 @@
 # WeatherApp-iOS
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+
  WeatherApp is a simple and user-friendly weather application that provides real-time weather updates and forecasts for locations around the world. With WeatherApp, you can stay informed about the current weather conditions, temperature, humidity, wind speed, and more, helping you plan your day accordingly.
 
 ## Features
